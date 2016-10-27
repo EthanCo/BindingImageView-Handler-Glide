@@ -23,6 +23,8 @@ Add it in your root build.gradle at the end of repositories:
 	    compile 'com.github.EthanCo:BindingImageView-Handler-Glide:1.0.0'
 	}
 
+> 无需再添加BindingImageView和Glide依赖
+
 
 ## 使用 ##
 
